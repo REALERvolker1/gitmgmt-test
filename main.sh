@@ -2,4 +2,5 @@
 # script by vlk
 
 echo 'hi'
+echo 'hello'
 
